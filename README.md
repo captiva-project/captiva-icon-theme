@@ -30,7 +30,7 @@ If you like my project please help me with a small donation [Paypal](https://www
 
 ###Icon Requests
 
-Please follow [this tutorial video](http://youtu.be/qEzqEndVqto?list=UUKqoYJU4D6BrMFLWk_Nhgjg) and submit your requests [here](http://captiva-project.github.io/icon-requests/) (Only Icons for Linux)
+Please follow [this tutorial video](http://youtu.be/qEzqEndVqto?list=UUKqoYJU4D6BrMFLWk_Nhgjg) and submit your requests [here](http://captiva-project.github.io/icon-requests/) (Only icons for Linux will be accepted)
 
 ###Tips
 
