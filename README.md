@@ -8,10 +8,20 @@ Now the theme works in unity and gnome but still missing some icons.
 
 ###Installation
 
+####Ubuntu
+
 <pre>
 sudo add-apt-repository ppa:captiva/ppa
 sudo apt-get update
 sudo apt-get install captiva-icon-theme
+</pre>
+
+####Archlinux
+
+Thanks to tydell who add the theme to the aur repositories [click here to download](https://aur.archlinux.org/packages/captiva-icons-git/) or use yaourt.
+
+<pre>
+yaourt -S captiva-icons-git
 </pre>
 
 ###Download
